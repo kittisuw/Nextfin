@@ -1,4 +1,4 @@
-# Digital Literacy
+# การทำให้องค์กร Nexfin มี Digital Literacy(ทักษะความเข้าใจและใช้เทคโนโลยีดิจิทัล)
 ## How to 
 1. Leadership as Digital Role Model (ผู้นำต้องทำให้ดู) : ระดับสูง eg. digital sign.  
 2. Digital Competency Framework (กำหนดมาตรฐานทักษะดิจิทัล). 
