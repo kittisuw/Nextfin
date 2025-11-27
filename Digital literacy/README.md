@@ -11,11 +11,11 @@
 9. Psychological Safety for Innovation (พื้นที่ปลอดภัยในการลองผิดลองถูก).   
 10. Incentives & Gamification (แรงจูงใจและเกม).   
 
-## Tools(เครื่องมือ)
-1.Collaborative Workspace Platforms (แพลตฟอร์มการทำงานร่วมกัน) : MS365 , Google Workspace.  
+## Tools(เครื่องมือ)   
+1. Collaborative Workspace Platforms (แพลตฟอร์มการทำงานร่วมกัน) : MS365 , Google Workspace.  
 2. ระบบประเมินผล HR360 ESS.  
-4.Learning Platform.  
-5.Knowledge Management System (KMS / Wiki).  
-6.e-Signature & Document Management System (DMS).  
-7.Business Intelligence (BI) Dashboard.  
-8.Generative AI Tools (ผู้ช่วยอัจฉริยะ).  
+4. Learning Platform.  
+5. Knowledge Management System (KMS / Wiki).  
+6. e-Signature & Document Management System (DMS).  
+7. Business Intelligence (BI) Dashboard.  
+8. Generative AI Tools (ผู้ช่วยอัจฉริยะ).  
