@@ -1,5 +1,5 @@
 # การทำให้องค์กร Nexfin มี Digital Literacy(ทักษะความเข้าใจและใช้เทคโนโลยีดิจิทัล)
-## How to 
+## How to ?(วิธีการ)
 1. Leadership as Digital Role Model (ผู้นำต้องทำให้ดู) : ระดับสูง eg. digital sign.  
 2. Digital Competency Framework (กำหนดมาตรฐานทักษะดิจิทัล). 
 3. Upskilling & Re skilling Ecosystem (ระบบการเรียนรู้ที่เข้าถึงง่าย). 
@@ -11,7 +11,7 @@
 9. Psychological Safety for Innovation (พื้นที่ปลอดภัยในการลองผิดลองถูก).   
 10. Incentives & Gamification (แรงจูงใจและเกม).   
 
-## Tools
+## Tools(เครื่องมือ)
 1.Collaborative Workspace Platforms (แพลตฟอร์มการทำงานร่วมกัน) : MS365 , Google Workspace.  
 2. ระบบประเมินผล HR360 ESS.  
 4.Learning Platform.  
