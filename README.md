@@ -3,13 +3,13 @@
 NextFin คือผู้ให้บริการสินเชื่อทะเบียนรถ (Car-for-Cash) ที่ได้รับใบอนุญาตประกอบธุรกิจจากธนาคารแห่งประเทศไทย (ธปท.) โดยมุ่งเน้นการเป็นองค์กรที่ขับเคลื่อนด้วยเทคโนโลยี (Tech-Enabled Lender) เพื่อให้บริการที่รวดเร็วและแม่นยำ
 
 ## Operational Model & Technology Architecture
-NextFin ดำเนินงานภายใต้โครงสร้างองค์กรแบบ Agile (พนักงานไม่เกิน 150 คน) โดยมีความพร้อมทางด้านเทคโนโลยีที่แข็งแกร่ง (Hybrid Approach):
-Core System: มีระบบ Loan Management System (LMS) ที่เสถียรเป็นฐานข้อมูลหลัก
-Service Delivery & Channels:
-Loan Origination System (LOS): พัฒนาเสร็จสมบูรณ์ รองรับการพิจารณาสินเชื่อผ่าน Decision Engineอนุมัติไวภายใน 15 นาที
-Mobile Application: พัฒนาเสร็จสมบูรณ์พร้อมใช้งาน รองรับบริการ Self-service สำหรับลูกค้า
-Connectivity: ใช้สถาปัตยกรรมแบบ API-based พร้อมเชื่อมต่อกับ Third-party ได้ทันที
-In-house Capability: ทีม Tech ภายในทำหน้าที่ดูแล Infrastructure, Security และงาน Support เพื่อรักษาเสถียรภาพและความปลอดภัยของระบบที่ Vendor พัฒนามา.  
+NextFin ดำเนินงานภายใต้โครงสร้างองค์กรแบบ Agile (พนักงานไม่เกิน 150 คน) โดยมีความพร้อมทางด้านเทคโนโลยีที่แข็งแกร่ง (Hybrid Approach):   
+- Core System: มีระบบ Loan Management System (LMS) ที่เสถียรเป็นฐานข้อมูลหลัก   
+- Service Delivery & Channels:
+- Loan Origination System (LOS): พัฒนาเสร็จสมบูรณ์ รองรับการพิจารณาสินเชื่อผ่าน Decision Engineอนุมัติไวภายใน 15 นาที   
+- Mobile Application: พัฒนาเสร็จสมบูรณ์พร้อมใช้งาน รองรับบริการ Self-service สำหรับลูกค้า   
+- Connectivity: ใช้สถาปัตยกรรมแบบ API-based พร้อมเชื่อมต่อกับ Third-party ได้ทันที  
+- In-house Capability: ทีม Tech ภายในทำหน้าที่ดูแล Infrastructure, Security และงาน Support เพื่อรักษาเสถียรภาพและความปลอดภัยของระบบที่ Vendor พัฒนามา.  
 
 ## Strategic Vision: The Paradigm Shift
 NextFin กำลังก้าวข้ามจากการเป็นเพียง "ผู้ปล่อยสินเชื่อ" (Lender) สู่การเป็น "Financial Partner" (คู่คิดทางการเงิน) ที่แท้จริง โดยใช้ Data-Driven Strategy เข้ามาเปลี่ยนแปลงพฤติกรรมและยกระดับคุณภาพชีวิตลูกค้าผ่าน "Dynamic Credit Platform"
